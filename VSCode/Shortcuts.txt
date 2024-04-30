@@ -1,0 +1,9 @@
+Shortcuts VSCode:
+
+	- Crtl + K + C : 	Comenta o código selecionado
+	- Crtl + K + U : 	Descomenta o código selecionado
+	- Crtl + Tab : 		Go for last file that estava before
+	- Crtl + Shift + baxio: Vai para baixo na msm coluna, serve pra cima também.
+	- Crtl + D : 		Encima de uma palavra, seleciona all equals words
+
+	

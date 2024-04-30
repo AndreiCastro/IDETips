@@ -1,0 +1,20 @@
+Shortcuts Visual Studio:
+
+	- Crtl + . : 		Importa os usings
+	- Alt + Crtl + E : 	Abre a janela de exceções
+	- Crtl + K + F : 	Identa o código selecionado
+	- Crtl + K + D : 	Identa todo o código 
+	- Crtl + K + C : 	Comenta o código selecionado
+	- Crtl + K + U : 	Descomenta o código selecionado
+	- Alt + Enter : 	Abre a janela de propriedades
+	- Crtl + K + S : 	Abre a caixa de dialogo code snippet
+	- F12 : 		Go Definition
+	- F9 : 			Breakpoint
+	- F10 : 		Depuração sem entrar na classe
+	- F11 : 		Depuração entrando na classe
+	- Crtl + Alt + Q : 	Abre a janela Quick Watch (enquanto esta depurando)
+	- Crtl + M + G : 	Go To View
+	- Crtl + K + K : 	Add and Remove a bookmark
+	- Crtl + K + L : 	Drop all bookmark of project
+	- Crtl + M + O : 	Minimiza todas as funções do arquivo que está
+	- Crtl + Tab : 		Go for last file that estava before
