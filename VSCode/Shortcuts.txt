@@ -1,9 +1,19 @@
 Shortcuts VSCode:
 
 	- Crtl + K + C : 	Comenta o código selecionado
+	- Crtl + ; :		Comenta o código selecionado
 	- Crtl + K + U : 	Descomenta o código selecionado
+	- Crtl + ' :		Open e close terminal
 	- Crtl + Tab : 		Go for last file that estava before
-	- Crtl + Shift + baxio: Vai para baixo na msm coluna, serve pra cima também.
-	- Crtl + D : 		Encima de uma palavra, seleciona all equals words
+	- Crtl + Shift + baixo: Vai para baixo na msm coluna, serve pra cima também.
+	- Crtl + D : 		Encima de uma palavra, seleciona all equals words.
+	- Crtl + S : 		Save.
+	- Crtl + B : 		Open Explorer 
+	- Crtl + P :		Find file
+	- Crtl + F :		Find
+	- Crtl + G : 		Choose line that deseja
+	- Crtl + Espaço :	List propertiers e method de um objecto
+	- Crtl + Shift + Espaço:Show params of a function
+
 
 	
